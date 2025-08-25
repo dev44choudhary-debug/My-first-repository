@@ -1,1 +1,1 @@
-# My-first-repository
+print("Hello")
